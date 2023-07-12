@@ -1,6 +1,9 @@
 # QA / Bugs
 
---- 
+![Testing](https://github.com/9RACHA/Intruder-in-Antiquonia/assets/66274956/a9e9e9d5-f5a5-4fda-a77b-4731a670d1ba)
+
+---
+
 
 ## Bugs
 
