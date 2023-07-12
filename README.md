@@ -5,7 +5,9 @@
 ## Bugs
 
 https://github.com/ce-videoxogos-muralla/testing-qa-intruderantiquonia/issues/17
+
 https://github.com/ce-videoxogos-muralla/testing-qa-intruderantiquonia/issues/30
+
 https://github.com/ce-videoxogos-muralla/testing-qa-intruderantiquonia/issues/31
 
 ## QA
